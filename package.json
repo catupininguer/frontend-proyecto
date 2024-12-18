@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "crud-angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+=======
+  "name": "frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve --port 80",
+>>>>>>> b325f29751b6dc429c85333e8eeaad242837ea8f
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
@@ -17,8 +25,14 @@
     "@angular/forms": "^19.0.0",
     "@angular/platform-browser": "^19.0.0",
     "@angular/platform-browser-dynamic": "^19.0.0",
+<<<<<<< HEAD
     "@angular/router": "^19.0.4",
     "bootstrap": "^5.3.3",
+=======
+    "@angular/router": "^19.0.0",
+    "flowbite": "^2.5.2",
+    "ngxtension": "^4.2.0",
+>>>>>>> b325f29751b6dc429c85333e8eeaad242837ea8f
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"
@@ -28,12 +42,21 @@
     "@angular/cli": "^19.0.5",
     "@angular/compiler-cli": "^19.0.0",
     "@types/jasmine": "~5.1.0",
+<<<<<<< HEAD
+=======
+    "autoprefixer": "^10.4.20",
+>>>>>>> b325f29751b6dc429c85333e8eeaad242837ea8f
     "jasmine-core": "~5.4.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+<<<<<<< HEAD
+=======
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+>>>>>>> b325f29751b6dc429c85333e8eeaad242837ea8f
     "typescript": "~5.6.2"
   }
 }

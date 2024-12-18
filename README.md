@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # CrudAngular
+=======
+# Frontend
+>>>>>>> b325f29751b6dc429c85333e8eeaad242837ea8f
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
 

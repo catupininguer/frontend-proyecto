@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 /* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
 /* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
+=======
+>>>>>>> b325f29751b6dc429c85333e8eeaad242837ea8f
 {
   "compileOnSave": false,
   "compilerOptions": {
